@@ -1,4 +1,4 @@
 # **2D GAME**
 
-![Diagram](game.png)
+![Footer Image](assets/game.png)
 

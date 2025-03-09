@@ -1,4 +1,4 @@
 # **2D GAME**
 
-![Project Screenshot](game.png)
+![Diagram](game.png)
 

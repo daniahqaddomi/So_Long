@@ -75,12 +75,12 @@ int	main(int argc, char *argv[])
 	t_game	game;
 	int		len;
 
-	len = ft_strlen(argv[1]);
 	if (argc != 2)
 	{
 		ft_printf("Error: Invalid number of arguments\n");
 		return (1);
 	}
+	len = ft_strlen(argv[1]);
 	if (ft_strncmp(argv[1] + len - 4, ".ber", 4) != 0)
 	{
 		ft_printf("Error: Map file must be .ber\n");

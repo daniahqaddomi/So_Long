@@ -74,7 +74,7 @@ int	empty_map(t_game *game)
 	if (game->row == 0 || game->column == 0)
 	{
 		free_game(game);
-		perror("Empty map");
+		ft_printf("Empty map\n");
 		return (1);
 	}
 	return (0);

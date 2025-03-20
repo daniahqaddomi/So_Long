@@ -12,7 +12,7 @@
 - Used simple graphics with images to represent game elements.
 - Ensured proper memory management and game logic.
 
-## Usage
+## How to Compile
 ```sh
 make       # To compile the game
 ./so_long ./maps map.ber # To run the game

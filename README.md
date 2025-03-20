@@ -15,6 +15,6 @@
 ## Usage
 ```sh
 make       # To compile the game
-./so_long  # To run the game
+./so_long ./maps map.ber # To run the game
 make clean # To remove compiled files
 
